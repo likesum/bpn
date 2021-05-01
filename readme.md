@@ -17,14 +17,14 @@ A Tensorflow 2 **re-implementation** of Basis Prediction Networks for Burst Deno
 Python 3 + Tensorflow-2.3
 
 ## Download pre-trained models
-Our pre-trained models for grayscale and color burst denoising can be found [here](https://github.com/likesum/bpn/releases/download/v1.0/trained_models.zip). You can run
+Our pre-trained models for grayscale and color burst denoising can be found [here](https://drive.google.com/file/d/1_-AFCj3G5ISJovdprVHvyeGt59hH2iKb/view?usp=sharing). You can run
 ```
 bash ./scripts/download_models.sh
 ```
 to download and unzip them.
 
 ## Download grayscale and color test sets
-We use the grayscale test set provided by Mildenhall et al., which can be found [here](https://drive.google.com/open?id=1UptBXV4f56wMDpS365ydhZkej6ABTFq1). For color burst denoising test, we sythetically generate the test set with 100 images from the validation set of [Open Images Dataset](https://github.com/cvdfoundation/open-images-dataset). The noisy and clean bursts can be found [here](https://github.com/likesum/bpn/releases/download/v1.0/color_testset.zip). You can also download both test sets by running
+We use the grayscale test set provided by Mildenhall et al., which can be found [here](https://drive.google.com/open?id=1UptBXV4f56wMDpS365ydhZkej6ABTFq1). For color burst denoising test, we sythetically generate the test set with 100 images from the validation set of [Open Images Dataset](https://github.com/cvdfoundation/open-images-dataset). The noisy and clean bursts can be found [here](https://drive.google.com/file/d/1rXmauXa_AW8ZrNiD2QPrbmxcIOfsiONE/view?usp=sharing). You can also download both test sets by running
 ```
 bash ./scripts/download_testset.sh
 ```
