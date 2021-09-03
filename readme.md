@@ -1,5 +1,5 @@
 # Basis Prediction Networks for Effective Burst Denoising with Large Kernels
-### [Project Page](https://www.cse.wustl.edu/~zhihao.xia/bpn) | [Video](https://youtu.be/jFubeqxJO6U) | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Xia_Basis_Prediction_Networks_for_Effective_Burst_Denoising_With_Large_Kernels_CVPR_2020_paper.html)
+### [Project Page](https://likesum.github.io/bpn) | [Video](https://youtu.be/jFubeqxJO6U) | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Xia_Basis_Prediction_Networks_for_Effective_Burst_Denoising_With_Large_Kernels_CVPR_2020_paper.html)
 A Tensorflow 2 **re-implementation** of Basis Prediction Networks for Burst Denoising. The original source code of the paper was implemented in TF1, but could not be shared due to patent issues.<br>
 
 [Basis Prediction Networks for Effective Burst Denoising with Large Kernels](https://likesum.github.io/bpn) (CVPR 2020) <br>
